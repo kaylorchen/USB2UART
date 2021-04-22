@@ -1,0 +1,8 @@
+
+*.PrjPcbStructure
+History/
+__Previews/
+Project Logs for */
+Project Outputs*/
+生产相关/
+*.htm
